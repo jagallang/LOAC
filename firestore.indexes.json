@@ -1,0 +1,29 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "academies",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "SIGUN_NM",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "CRSE_CLASS_NM",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "academies",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "FACLT_NM",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}

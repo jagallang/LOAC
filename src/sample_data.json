@@ -1,0 +1,67 @@
+[
+  {
+    "SIGUN_NM": "가평군",
+    "EMD_NM": "설악면",
+    "FACLT_NM": "지식의샘학원",
+    "REPRSNTV_NM": "",
+    "CRSE_CLASS_NM": "입시.검정 및 보습",
+    "TELNO": "031-584-4909",
+    "REFINE_ZIP_CD": "12465",
+    "REFINE_LOTNO_ADDR": "경기도 가평군 설악면 신천리 465-2번지 2층",
+    "REFINE_ROADNM_ADDR": "경기도 가평군 설악면 신천중앙로 132-1 , 2층 (설악면)",
+    "REFINE_WGS84_LAT": "37.6780408303",
+    "REFINE_WGS84_LOGT": "127.4891698839"
+  },
+  {
+    "SIGUN_NM": "가평군",
+    "EMD_NM": "가평읍",
+    "FACLT_NM": "청명멘토르학원",
+    "REPRSNTV_NM": "",
+    "CRSE_CLASS_NM": "입시.검정 및 보습",
+    "TELNO": "031-582-0789",
+    "REFINE_ZIP_CD": "12417",
+    "REFINE_LOTNO_ADDR": "경기도 가평군 가평읍 읍내리 536-5번지",
+    "REFINE_ROADNM_ADDR": "경기도 가평군 가평읍 석봉로153번길 6 (가평읍)",
+    "REFINE_WGS84_LAT": "37.8289051155",
+    "REFINE_WGS84_LOGT": "127.5104999221"
+  },
+  {
+    "SIGUN_NM": "가평군",
+    "EMD_NM": "가평읍",
+    "FACLT_NM": "새로운ENG영어교습소",
+    "REPRSNTV_NM": "우민주",
+    "CRSE_CLASS_NM": "보통교과",
+    "TELNO": "",
+    "REFINE_ZIP_CD": "12416",
+    "REFINE_LOTNO_ADDR": "경기도 가평군 가평읍 대곡리 245번지 2층",
+    "REFINE_ROADNM_ADDR": "경기도 가평군 가평읍 석봉로 126 , 2층 (가평읍)",
+    "REFINE_WGS84_LAT": "37.8263902888",
+    "REFINE_WGS84_LOGT": "127.5121017674"
+  },
+  {
+    "SIGUN_NM": "고양시",
+    "EMD_NM": "일산서구",
+    "FACLT_NM": "애플트리영어교습소",
+    "REPRSNTV_NM": "신영혜",
+    "CRSE_CLASS_NM": "보통교과",
+    "TELNO": "031-924-5373",
+    "REFINE_ZIP_CD": "10368",
+    "REFINE_LOTNO_ADDR": "경기도 고양시 일산서구 대화동 2050-11번지 1층 일부",
+    "REFINE_ROADNM_ADDR": "경기도 고양시 일산서구 성저로46번길 48 , 1층일부 (대화동)",
+    "REFINE_WGS84_LAT": "37.6838018573",
+    "REFINE_WGS84_LOGT": "126.7552645999"
+  },
+  {
+    "SIGUN_NM": "고양시",
+    "EMD_NM": "일산서구",
+    "FACLT_NM": "감탄국어학원",
+    "REPRSNTV_NM": "",
+    "CRSE_CLASS_NM": "입시.검정 및 보습",
+    "TELNO": "031-914-5033",
+    "REFINE_ZIP_CD": "10374",
+    "REFINE_LOTNO_ADDR": "경기도 고양시 일산서구 일산동 1064-2번지 302호",
+    "REFINE_ROADNM_ADDR": "경기도 고양시 일산서구 일산로 566 , 302호 (일산동)",
+    "REFINE_WGS84_LAT": "37.6790264324",
+    "REFINE_WGS84_LOGT": "126.7655753829"
+  }
+]
